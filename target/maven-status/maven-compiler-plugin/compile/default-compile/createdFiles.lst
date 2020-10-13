@@ -1,0 +1,4 @@
+io/jsonflattener/main/Main.class
+io/jsonflattener/service/AppHealthCheck.class
+io/jsonflattener/service/FlattenerService.class
+io/jsonflattener/controller/JsonFlattenerController.class
